@@ -1,3 +1,7 @@
+#Name: Aaron Amelink
+#Date: Feb 23
+
+
 a = int(input(""))
 b = int(input(""))
 c = int(input(""))

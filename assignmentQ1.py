@@ -1,3 +1,6 @@
+#Name: Aaron Amelink
+#Date: Feb 23
+
 location = int(input(""))
 instructions = input("")
 
